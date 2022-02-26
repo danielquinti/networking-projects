@@ -1,0 +1,165 @@
+Request: TRACE /index.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:46:12 CET
+Message: HTTP/1.1 400 BAD REQUEST
+
+Request: GET /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:46:12 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: HEAD /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:47:12 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: GET am HTTP/1.1
+IP: localhost
+Date/Time: 2019/03/22 12:48:48 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: TRACE /index.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:49:08 CET
+Message: HTTP/1.1 400 BAD REQUEST
+
+Request: GET /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:49:08 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: GET F http/1.1
+IP: localhost
+Date/Time: 2019/03/22 12:49:27 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: TRACE /index.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:50:23 CET
+Message: HTTP/1.1 400 BAD REQUEST
+
+Request: GET /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:50:30 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: TRACE /index.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:51:39 CET
+Message: HTTP/1.1 400 BAD REQUEST
+
+Request: GET /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:51:39 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: HEAD /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:51:39 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: TRACE /index.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:52:58 CET
+Message: HTTP/1.1 400 BAD REQUEST
+
+Request: GET /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:52:58 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: HEAD /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:52:58 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: TRACE /index.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:53:06 CET
+Message: HTTP/1.1 400 BAD REQUEST
+
+Request: GET /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:53:06 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: HEAD /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:53:06 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: TRACE /index.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:53:11 CET
+Message: HTTP/1.1 400 BAD REQUEST
+
+Request: GET /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:53:11 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: HEAD /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:53:11 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: TRACE /index.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:53:17 CET
+Message: HTTP/1.1 400 BAD REQUEST
+
+Request: GET /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:53:17 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: HEAD /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 2019/03/22 12:53:17 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: TRACE /index.html HTTP/1.0
+IP: localhost
+Date/Time: 22/03/2019 12:56:10 CET
+Message: HTTP/1.1 400 BAD REQUEST
+
+Request: GET /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 22/03/2019 12:56:10 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: HEAD /notFound.html HTTP/1.0
+IP: localhost
+Date/Time: 22/03/2019 12:56:11 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: GET /favicon.ico HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:13:13 CET
+Message: HTTP/1.1 404 NOT FOUND
+
+Request: GET / HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:14:31 CET
+Message: HTTP/1.1 403 FORBIDDEN
+
+Request: s s s
+IP: localhost
+Date/Time: 22/03/2019 13:22:25 CET
+Message: HTTP/1.1 400 BAD REQUEST
+
+Request: s s s
+IP: localhost
+Date/Time: 22/03/2019 13:24:12 CET
+Message: HTTP/1.1 400 BAD REQUEST
+
+Request: s s s
+IP: localhost
+Date/Time: 22/03/2019 13:27:09 CET
+Message: HTTP/1.1 400 BAD REQUEST
+
+Request: GET /favicon.ico HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:42:57 CET
+Message: HTTP/1.1 404 NOT FOUND
+

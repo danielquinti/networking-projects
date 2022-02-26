@@ -1,0 +1,87 @@
+Request: GET / HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:10:07 CET
+State code: 200
+Bytes sent: 354
+
+Request: GET / HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:13:13 CET
+State code: 200
+Bytes sent: 354
+
+Request: GET / HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:16:38 CET
+State code: 200
+
+Request: GET /error304.txt HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:16:41 CET
+State code: 200
+Bytes sent: 4
+
+Request: GET / HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:16:43 CET
+State code: 200
+
+Request: GET /errors.log HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:16:45 CET
+State code: 200
+Bytes sent: 3427
+
+Request: GET / HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:16:47 CET
+State code: 200
+
+Request: GET /saludo.html HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:37:03 CET
+State code: 200
+Bytes sent: 599
+
+Request: GET /saludo.html HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:38:30 CET
+State code: 200
+Bytes sent: 598
+
+Request: GET /saludo.html HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:39:13 CET
+State code: 304
+Bytes sent: 9
+
+Request: GET /saludo.html HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:39:14 CET
+State code: 304
+Bytes sent: 9
+
+Request: GET /saludo.html HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:39:24 CET
+State code: 304
+Bytes sent: 9
+
+Request: GET /saludo.html HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:39:27 CET
+State code: 304
+Bytes sent: 9
+
+Request: GET / HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:42:52 CET
+State code: 200
+Bytes sent: 354
+
+Request: GET /Chillflix.html HTTP/1.1
+IP: localhost
+Date/Time: 22/03/2019 13:42:57 CET
+State code: 200
+Bytes sent: 602
+
